@@ -1,6 +1,6 @@
 # Submission for the BabyLM 2024 Shared Task
 
-> [IMPORTANT]
+> [!IMPORTANT]
 > Training pipeline and further evaluation logic cleanup is still WIP
 
 # Benchmark Results
