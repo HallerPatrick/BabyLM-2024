@@ -1,6 +1,9 @@
 # Submission for the BabyLM 2024 Shared Task
 
 > [!IMPORTANT]
+> We are happy to announce that our paper got published at the CoNLL 2024 Shared Task! (Proceedings still in progress)
+
+> [!IMPORTANT]
 > Training pipeline and further evaluation logic cleanup is still WIP
 
 # Benchmark Results
